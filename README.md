@@ -100,9 +100,12 @@ The AC power supply from mains first gets converted into and unregulated DC and 
 ![image](https://github.com/anishkumar-Embedded/Converter-design-and-simulation/assets/71547910/0cfd4fc7-1eff-42e3-9806-319bfe174926)
 
 # Output
+![Screenshot 2025-03-12 111628](https://github.com/user-attachments/assets/9ec280c7-6a0b-4798-8f05-8f520b6003ae)
+
+![Screenshot 2025-03-14 134701](https://github.com/user-attachments/assets/e9decc32-0637-44bc-9722-47fa337a2d5c)
 
 
-
+![Screenshot 2025-03-14 134450](https://github.com/user-attachments/assets/beba207e-5d1c-46ec-a1fc-cc8c94d95a85)
 
 
 # Result 
